@@ -40,27 +40,30 @@ You should see modified: README.md. (or whatever file you have edited if this is
 - git commit -m "Add my name to the readme."
 - git pull origin master
 
-You should see something like "Already up to date". 
-  - *If you have a merge conflict resolve it by deciding what you want to go where (like if a different name is already on the line where you put yours, put yours underneath) and then delete the '>>>>>'  and '<<<<<<<' that showed up around the merge conflict.*
+You should see something like "Already up to date." 
+  - **If you have a merge conflict resolve it by deciding what you want to go where (like if a different name is already on the line where you put yours, put yours underneath) and then delete the '>>>>>'  and '<<<<<<<' that showed up around the merge conflict.
 - git push origin your_first_name
 
 You should see something like 'bunch of stuff...*[new branch] your_first_name -> your_first_name' (for initial setup)
-  - *If it first asks you for your email, type in your email address that you associated with your github account. It will likely ask for your password after, heads up it will not show you anything when you start typing so just try to type it in correctly and hit enter when you are done. If it doesn't work the first time, try again, you probably mistyped your password.*  
+  - **If it first asks you for your email, type in your email address that you associated with your github account. It will likely ask for your password after, heads up it will not show you anything when you start typing so just try to type it in correctly and hit enter when you are done. If it doesn't work the first time, try again, you probably mistyped your password.  
 
 6. Back to GitHub on your browser on the right there should be a "compare & pull request" button, click it.
 
 7. Scroll down and on the right you should see "Reviewers" it is a link, click it.
 
-8. Choose either saramccombs or erica42 then click the link that says 'request'.
+8. From the dropdown pick either saramccombs or erica42 then click the link that says 'request.'
 
-9. Click the Create pull request.
+9. Click 'Create pull request.'
 
-10. Then in the textbox write "@(whoever_you_requested) please review." Click the green comment button.
+10. Then in the textbox for comments write: "@(whoever_you_requested) please review." Click the green 'comment' button.
 
 Either Sara or I will review your code and merge it for you. You will get an email letting you know when it has been merged, of if we have comments about things that need to be changed before it gets merged you'll get that in an email as well.
 
-11. Once your code has been merged into master on GitHub, back in VS Code in the terminal 
+11. Once your code has been merged into master on GitHub, back in VS Code in the terminal: 
 - git pull origin master
+
+
+## If you have problems with anything here, please reach out to Erica42 (me) for help.
 
 
 Collaborators:
