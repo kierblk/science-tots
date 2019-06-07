@@ -1,6 +1,6 @@
 # science-tots
 
-###BEFORE YOU WRITE ANY OTHER CODE FOLLOW THESE DIRECTIONS
+### BEFORE YOU WRITE ANY OTHER CODE FOLLOW THESE DIRECTIONS
 
 These are the step by step directions with *everything* spelled out so we are all on the same page. 
 
