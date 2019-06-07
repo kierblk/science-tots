@@ -9,7 +9,7 @@ This is also the way we would like you to do all of your pull requests starting 
 2. Open VS Code and open the terminal in VS Code (it's at the very top).
 
 3. In the terminal you should hit enter after all of the following instructions:
-  - in windows command prompt: 
+   - in windows command prompt: 
 - dir
   - in windows power shell and mac:
 - ls (to see which directory you want to put this project in)
@@ -27,19 +27,23 @@ This is also the way we would like you to do all of your pull requests starting 
 - git branch your_first_name
 - git checkout your_first_name
 - open README.md
+
 If xcode wants to update, tell it to do so. Go make a cup of tea and come back then do the last command again and it should open in a different window.
 
 4. Add your name under Collaborators (at the end of this document), save, and close.
 
 5. Back in the terminal of VS Code:
 - git status
+
 You should see modified: README.md. (or whatever file you have edited if this is after initial set up)
 - git add .
 - git commit -m "Add my name to the readme."
 - git pull origin master
+
 You should see something like "Already up to date". 
   - *If you have a merge conflict resolve it by deciding what you want to go where (like if a different name is already on the line where you put yours, put yours underneath) and then delete the '>>>>>'  and '<<<<<<<' that showed up around the merge conflict.*
 - git push origin your_first_name
+
 You should see something like 'bunch of stuff...*[new branch] your_first_name -> your_first_name' (for initial setup)
   - *If it first asks you for your email, type in your email address that you associated with your github account. It will likely ask for your password after, heads up it will not show you anything when you start typing so just try to type it in correctly and hit enter when you are done. If it doesn't work the first time, try again, you probably mistyped your password.*  
 
