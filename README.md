@@ -44,9 +44,9 @@ You should see modified: README.md. (or whatever file you have edited if this is
     ```git pull origin master```  
 
 You should see something like "Already up to date."  
-   If you have a merge conflict resolve it by deciding what you want to go where (like if a different name is already on the line where you put yours, put yours underneath) and then delete the '>>>>>'  and '<<<<<<<' that showed up around the merge conflict.  
-   
-    ```git push origin your_first_name```  
+   If you have a merge conflict resolve it by deciding what you want to go where (like if a different name is already on the line where you put yours, put yours underneath) and then delete the '>>>>>'  and '<<<<<<<' that showed up around the merge conflict.
+
+   ```git push origin your_first_name```  
 
 You should see something like 'bunch of stuff...*[new branch] your_first_name -> your_first_name' (for initial setup)
    If it first asks you for your email, type in your email address that you associated with your github account. It will likely ask for your password after, heads up it will not show you anything when you start typing so just try to type it in correctly and hit enter when you are done. If it doesn't work the first time, try again, you probably mistyped your password.  
