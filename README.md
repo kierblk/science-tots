@@ -1,10 +1,8 @@
 # science-tots
 
-### BEFORE YOU WRITE ANY OTHER CODE FOLLOW THESE DIRECTIONS
+**BEFORE YOU WRITE ANY OTHER CODE FOLLOW THESE DIRECTIONS**
 
-These are the step by step directions with *everything* spelled out so we are all on the same page. 
-
-This is also the way we would like you to do all of your pull requests starting at number 5.
+These are the step by step directions with *everything* spelled out so we are all on the same page. This is also the way we would like you to do all of your pull requests starting at number 5.
 
 1. Start by clicking on the 'Clone or download' button. Click the clipboard button to copy the link.
 
