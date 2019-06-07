@@ -9,20 +9,24 @@ These are the step by step directions with *everything* spelled out so we are al
 2. Open VS Code and open the terminal in VS Code (it's at the very top).
 
 3. In the terminal you should hit enter after all of the following instructions:
-   - in windows command prompt: 
+
+in windows command prompt: 
 - dir
-  - in windows power shell and mac:
+
+in windows power shell and mac:
 - ls (to see which directory you want to put this project in)
-  
-  - both:  
+
+
+both:  
 - cd the_name_of_the_directory_you_want_to_open (for myself I keep everything code related in a projects folder)
-  
-  - in mac:
+
+in mac:
 - git clone COMMAND + V (to paste)
-  - in windows:
+
+in windows:
 - git clone CTRL + V (to paste)
-  
-  - both:    
+
+both:    
 - git cd science-tots
 - git branch your_first_name
 - git checkout your_first_name
