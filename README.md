@@ -12,7 +12,7 @@ This is also the way we would like you to do all of your pull requests starting 
   - in windows command prompt: 
 - dir
   - in windows power shell and mac:
--ls (to see which directory you want to put this project in)
+- ls (to see which directory you want to put this project in)
   
   - both:  
 - cd the_name_of_the_directory_you_want_to_open (for myself I keep everything code related in a projects folder)
