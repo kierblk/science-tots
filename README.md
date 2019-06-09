@@ -12,8 +12,8 @@ These are the step by step directions with *everything* spelled out so we are al
 
 3. In the terminal you should hit enter after all of the following instructions:
 
-...In windows command prompt:..
-...```dir```
+   In windows command prompt:  
+   ```dir```
 
 in windows power shell and mac:  
    ```ls ```(to see which directory you want to put this project in)
