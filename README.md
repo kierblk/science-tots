@@ -65,7 +65,7 @@ These are the step by step directions with *everything* spelled out so we are al
 10. Then in the textbox for comments write: "@(whoever_you_requested) please review." Click the green 'comment' button.
 
    Either Sara or I will review your code and merge it for you. You will get an email letting you know when it has been merged, of if we have comments about things that need to be changed before it gets merged you'll get that in an email as well.
-
+   
 11. Once your code has been merged into master on GitHub, back in VS Code in the terminal:  
    ```git pull origin master```
 
@@ -73,7 +73,7 @@ These are the step by step directions with *everything* spelled out so we are al
 ## If you have problems with anything here, please reach out to Erica42 (me) for help.
 
 
-Collaborators:  
+### Collaborators:
    Erica Forget  
    Sara McCombs  
    Rose Mathes  
