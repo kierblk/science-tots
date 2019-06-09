@@ -73,7 +73,7 @@ These are the step by step directions with *everything* spelled out so we are al
 ## If you have problems with anything here, please reach out to Erica42 (me) for help.
 
 
-Collaborators:
+Collaborators:  
    Erica Forget  
    Sara McCombs  
    Rose Mathes  
