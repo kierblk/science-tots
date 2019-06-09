@@ -20,6 +20,7 @@ both:
    ```cd the_name_of_the_directory_you_want_to_open ```(for myself I keep everything code related in a projects folder)
 
 in mac:
+
    ```git clone COMMAND + V``` (to paste)
 
 in git bash in windows:
