@@ -2,6 +2,8 @@
 
 ![Together We Create Photo by "My Life Through A Lens" on Unsplash](images/my-life-through-a-lens-110632-unsplash.jpg)
 
+###### Photo by "My Life Through A Lens" on Unsplash
+
 ## BEFORE YOU WRITE ANY OTHER CODE FOLLOW THESE DIRECTIONS
 
 These are the step by step directions with *everything* spelled out so we are all on the same page. This is also the way we would like you to do all of your pull requests starting at number 5. And remember before you start working (after the initial set up) be sure to run ```git pull origin master``` will make you life better.
