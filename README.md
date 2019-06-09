@@ -2,7 +2,7 @@
 
 ![Together We Create Photo by "My Life Through A Lens" on Unsplash](images/my-life-through-a-lens-110632-unsplash.jpg)
 
-###### Photo by "My Life Through A Lens" on Unsplash
+###### [Photo by "My Life Through A Lens" on Unsplash](https://unsplash.com/photos/bq31L0jQAjU)
 
 ## BEFORE YOU WRITE ANY OTHER CODE FOLLOW THESE DIRECTIONS
 
