@@ -41,7 +41,7 @@ These are the step by step directions with *everything* spelled out so we are al
 5. Back in the terminal of VS Code:  
    ```git status```
 
-You should see modified: README.md. (or whatever file you have edited if this is after initial set up)  
+   You should see modified: README.md. (or whatever file you have edited if this is after initial set up)  
    ```git add .```  
    ```git commit -m "Add my name to the readme."```  
    ```git pull origin master```  
