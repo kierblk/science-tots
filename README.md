@@ -2,7 +2,7 @@
 
 **BEFORE YOU WRITE ANY OTHER CODE FOLLOW THESE DIRECTIONS**
 
-These are the step by step directions with *everything* spelled out so we are all on the same page. This is also the way we would like you to do all of your pull requests starting at number 5.
+These are the step by step directions with *everything* spelled out so we are all on the same page. This is also the way we would like you to do all of your pull requests starting at number 5. And remember before you start working (after the initial set up) be sure to run ```git pull origin master``` will make you life better.
 
 1. Start by clicking on the 'Clone or download' button. Click the clipboard button to copy the link.
 
@@ -22,6 +22,9 @@ both:
 in mac:
    ```git clone COMMAND + V``` (to paste)
 
+in git bash in windows:
+   ```SHIFT + INSERT``` or right click and select 'paste'
+
 in windows:
    ```git clone CTRL + V``` (to paste)
 
@@ -30,8 +33,6 @@ both:
    ```git branch your_first_name```
    ```git checkout your_first_name```
    ```code README.md```
-
-If xcode wants to update, tell it to do so. Go make a cup of tea and come back then do the last command again and it should open in a different window.
 
 4. Add your name under Collaborators (at the end of this document), save, and close.
 
@@ -71,7 +72,7 @@ Either Sara or I will review your code and merge it for you. You will get an ema
 
 
 Collaborators:
-Erica Forget
-Sara McCombs
-Rose Mathes
+   Erica Forget
+   Sara McCombs
+   Rose Mathes
 
