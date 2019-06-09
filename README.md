@@ -29,7 +29,7 @@ in windows:
    ```git clone CTRL + V``` (to paste)
 
 both:  
-   ```git cd science-tots```  
+   ```cd science-tots```  
    ```git branch your_first_name```  
    ```git checkout your_first_name```  
    ```code README.md```  
@@ -72,7 +72,7 @@ Either Sara or I will review your code and merge it for you. You will get an ema
 
 
 Collaborators:
-   Erica Forget
-   Sara McCombs
-   Rose Mathes
+   Erica Forget  
+   Sara McCombs  
+   Rose Mathes  
    Nancy Melendez
