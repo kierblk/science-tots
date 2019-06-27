@@ -35,3 +35,8 @@ body {
   main {
     flex: 1 0 auto;
 }
+
+.fa-margin {
+    margin-left: 5px;
+    margin-right: 5px;
+}
