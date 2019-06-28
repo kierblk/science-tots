@@ -10,9 +10,6 @@ html {
     background-color: rgba(255, 255, 255, 0.85) !important;
   }
 
-.st-purple {
-    background-color: #5F3F9D;
-}
 
 .small-caps {
     font-variant: small-caps;
@@ -39,4 +36,14 @@ body {
 .fa-margin {
     margin-left: 5px;
     margin-right: 5px;
+}
+
+.fa-margin-teal {
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #33CFCA;
+}
+
+.logo-padding {
+    padding-left: 15px;
 }
