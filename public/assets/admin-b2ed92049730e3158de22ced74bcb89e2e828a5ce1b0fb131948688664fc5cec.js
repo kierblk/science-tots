@@ -1,0 +1,1 @@
+if(void 0===custom_visual_editor_boot_options)var custom_visual_editor_boot_options={};
