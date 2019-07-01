@@ -74,3 +74,4 @@ gem 'refinerycms-authentication-devise', '~> 2.0'
 
 gem 'foundation-rails'
 gem 'autoprefixer-rails'
+gem 'taps'
