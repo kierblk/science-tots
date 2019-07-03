@@ -1,5 +1,5 @@
-html {
-    background: url(../images/background3.png) no-repeat center center fixed;
+.main-bg {
+    background: url("/assets/background3.png") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
