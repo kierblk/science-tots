@@ -63,3 +63,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Font-Awesome Rails Gem
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5'
+
+# Rails Admin
+gem 'rails_admin', '~> 2.0.0.beta'
