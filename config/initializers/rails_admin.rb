@@ -39,3 +39,4 @@ RailsAdmin.config do |config|
     # history_show
   end
 end
+
