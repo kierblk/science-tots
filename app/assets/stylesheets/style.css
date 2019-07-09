@@ -73,6 +73,18 @@ body {
     width: 100%;
   /* border-right: 1px solid #000; */
 }
+.one {
+    display: block;
+}
+.two {
+    display: none;
+}
+.three {
+    display:none;
+}
+.four {
+    display:none;
+}
 
 .st-nav-wrapper {
     background: radial-gradient(853.10px at 20.52% 19.48%, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #009C97;
@@ -98,3 +110,4 @@ body {
 .what-steam-padding {
     padding-right: 25px;
 }
+
