@@ -68,3 +68,8 @@ body {
 .fa-orange {
     color: #F77E00;
 }
+
+.style_image {
+    width: 100%;
+  /* border-right: 1px solid #000; */
+}
