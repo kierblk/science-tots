@@ -72,3 +72,30 @@ body {
 .st-nav-wrapper {
     background: radial-gradient(853.10px at 20.52% 19.48%, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #009C97;
 }
+
+.st-top-image {
+    width: 100%;
+}
+
+.red-hr {
+    border-color: #F02A15;
+}
+
+.subtitle-padding {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.new-padding {
+    padding-left: 25px;
+}
+
+.what-steam-padding {
+    padding-right: 25px;
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url("https://fonts.googleapis.com/css?family=Montserrat")
+    font-display: swap;
+}
