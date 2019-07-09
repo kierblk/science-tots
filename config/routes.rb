@@ -3,7 +3,8 @@ Rails.application.routes.draw do
 
   get '/' => 'home#top'
 
-  get 'tutorials' => 'home#tutorials'
+  # get 'tutorials/index'
+  get 'tutorials' => 'tutorials#index'
   # get 'tutorials/:title' => 'tutorials#show'
 
   get 'activities' => 'home#activities'
