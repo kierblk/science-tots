@@ -68,3 +68,7 @@ body {
 .fa-orange {
     color: #F77E00;
 }
+
+.st-nav-wrapper {
+    background: radial-gradient(853.10px at 20.52% 19.48%, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #009C97;
+}
