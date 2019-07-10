@@ -5,7 +5,7 @@ Rails.application.routes.draw do
 
   # get 'tutorials/index'
   get 'tutorials' => 'tutorials#index'
-  # get 'tutorials/:title' => 'tutorials#show'
+  get 'tutorials/:id' => 'tutorials#show'
 
   get 'activities' => 'home#activities'
 
