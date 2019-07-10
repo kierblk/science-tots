@@ -30,7 +30,7 @@
                 <div class="row container">
                     <div class="col s12">
                         <h2 class="header">Tutorials</h2>
-                        <p>Some sub-heading text goes here</p>
+                        <p><%=@tutorial.description%></p>
                     </div>
                 </div>
                 <div class="row container">
@@ -43,6 +43,7 @@
                     </div>
                     <div class="col s9">
                     <p class="style_image">
+
                     <%= @tutorial.content.html_safe %>
                     <%# the blasted button:
                     <button id="showButton" onclick="showNext()">next</button> %>
