@@ -37,14 +37,15 @@
                     <div class="col s3">
                     <% @tutorials.each do |tutorial| %>
                         <p>
-                           <%= tutorial.title %>
+                           <%= link_to(tutorial.title, "/tutorials/#{tutorial.id}") %>
                         </p>
                     <% end %>
                     </div>
                     <div class="col s9">
                     <p class="style_image">
                     <%= @tutorial.content.html_safe %>
-                    <button id="showButton" onclick="showNext()">next</button>
+                    <%# the blasted button:
+                    <button id="showButton" onclick="showNext()">next</button> %>
 
                     </p>
 

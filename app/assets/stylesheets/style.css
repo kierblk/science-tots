@@ -73,7 +73,8 @@ body {
     width: 100%;
   /* border-right: 1px solid #000; */
 }
-.one {
+/* for when I get the blasted button working */
+/* .one {
     display: block;
 }
 .two {
@@ -84,7 +85,7 @@ body {
 }
 .four {
     display:none;
-}
+} */
 
 .st-nav-wrapper {
     background: radial-gradient(853.10px at 20.52% 19.48%, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #009C97;

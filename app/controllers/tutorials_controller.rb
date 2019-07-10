@@ -5,7 +5,5 @@ class TutorialsController < ApplicationController
   def show
     @tutorials = Tutorial.all.order(created_at: :desc)
     @tutorial = Tutorial.find_by(id: params[:id])
-
-
   end
 end
