@@ -1,12 +1,16 @@
 <header>
+<a name="top"></a>
         <nav class="nav-extended">
             <div class="nav-wrapper st-nav-wrapper logo-padding">
                 <a href="/" class="brand-logo all-caps black-text left">Science <img class="st-logo" src="/images/ScienceTotsLogo-ColorRocket.png"> Tots</a>
                 <ul class="right">
-                    <li><a class="right" href="#!"><img class="social-icons" src="/images/facebook.png"></a></li>
-                    <li><a class="black-text right" href="#!"><img class="social-icons" src="/images/twitter.png"></a></li>
-                    <li><a class="black-text right" href="#!"><img class="social-icons" src="/images/instagram.png"></a></li>
-                    <li><a class="black-text right" href="#"><img class="social-icons" src="/images/email.png"></a></li>
+                    <li><a class="right" href="https://www.facebook.com/sciencetotsinc/" target="_blank"><img class="social-icons" src="/images/facebook.png"></a></li>
+
+                    <li><a class="black-text right" href="https://twitter.com/sciencetots" target="_blank"><img class="social-icons" src="/images/twitter.png"></a></li>
+
+                    <li><a class="black-text right" href="https://www.instagram.com/sciencetots/" target="_blank"><img class="social-icons" src="/images/instagram.png"></a></li>
+
+                    <li><a class="black-text right" href="https://www.sciencetots.org/contact" target="_blank"><img class="social-icons" src="/images/email.png"></a></li>
                 </ul>
             </div>
             <div class="nav-content st-purple">
@@ -25,22 +29,36 @@
 
     <main class="main-bg">
         <div class="container">
-            <a name="top"></a>
             <div class="section whitetransparent">
                 <div class="row container">
-                    <div class="col s12">
+                    <div class="col 12">
                         <h2 class="header">Tutorials</h2>
                         <p><%=@tutorial.description%></p>
                     </div>
                 </div>
                 <div class="row container">
                     <div class="col s3">
-                    <% @tutorials.each do |tutorial| %>
-                        <p>
-                           <%= link_to(tutorial.title, "/tutorials/#{tutorial.id}") %>
-                        </p>
-                    <% end %>
+                        <%# Start Activities List Area %>
+                        <ul class="collection st-teal">
+                            <li class="collection-header center white-text"><h5>Activities</h5></li>
+                            <% @tutorials.each do |tutorial| %>
+                                <li class="collection-item st-gray center">
+                                    <%= link_to(tutorial.title, "/tutorials/#{tutorial.id}") %>
+                                </li>
+                            <% end %>
+                        </ul>
+                        <%# Start Newsletter Signup Area %>
+                        <div class="subscribe-div">
+                            <img style="width: 100%" src="/images/kid-with-paint-splat.jpg">
+                            <p>
+                                <h6 class="center">Want to receive alerts for new content, sign up for the newsletter!</h6>
+                            </p>
+                            <p class="center">
+                                <a class="waves-effect waves-light btn" href="https://confirmsubscription.com/h/d/2AD4A2CC14ABBE9D" target="_blank">Subscribe Here</a>
+                            </p>
+                        </div>
                     </div>
+
                     <div class="col s9">
                     <p class="style_image">
 

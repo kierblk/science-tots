@@ -51,6 +51,10 @@ body {
     margin-right: 5px;
 }
 
+.fa-margin-top {
+    margin-top: 5px;
+}
+
 .fa-margin-teal {
     margin-left: 5px;
     margin-right: 5px;
@@ -122,4 +126,25 @@ body {
 
 .img-text {
     z-index: 100;
+}
+
+.st-purple {
+    background-color: #5F3F9D !important;
+}
+
+.st-teal {
+    background-color: #009C97 !important;
+}
+
+.st-teal.lighten-3 {
+    background-color: #33CFCA !important;
+}
+
+.st-gray {
+    background-color: #F7F7F7 !important;
+}
+
+.subscribe-div {
+    background-color: #9272D0;
+    padding: 15px;
 }
