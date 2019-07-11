@@ -66,3 +66,6 @@ gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5'
 
 # Rails Admin
 gem 'rails_admin', '~> 2.0.0.beta'
+
+# Rollincode styling for Rails Admin
+gem 'rails_admin_rollincode', '~> 1.2', '>= 1.2.1'
