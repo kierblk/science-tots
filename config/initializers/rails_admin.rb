@@ -38,5 +38,13 @@ RailsAdmin.config do |config|
     # history_index
     # history_show
   end
+
+  config.navigation_static_links = {
+    'Science Tots - Activity Zone: Home' => 'https://science-tots.herokuapp.com/',
+    'Science Tots - Non-Profit Site: Home' => 'https://www.sciencetots.org/'
+  }
+
+  config.navigation_static_label = "Science Tots Links"
+
 end
 
